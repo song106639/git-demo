@@ -12,5 +12,5 @@ nihao:hello git
 nihao:hello git 
 nihao:hello git 
 nihao:hello git 
-nihao:hello git 
+nihao:hello git master test
 nihao:hello git 
